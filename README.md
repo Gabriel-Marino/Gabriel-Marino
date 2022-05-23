@@ -26,7 +26,7 @@
 
 ###### Stacks i know something about and improving until i master
 <div style="display: inline_block">
-    <img align="center" alt="LaTeX icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+    <img align="center" alt="LaTeX icon" height="30" width="40" src="https://coollogo.net/wp-content/uploads/2021/02/Latex-logo.svg">
     <img align="center" alt="Clang icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Cpplang icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Java icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -39,7 +39,8 @@
 <hr>
 
 <div>
-    <a href = "https://www.linkedin.com/in/gabriel-marino-de-oliveira-3b0a80221/" target = "_blank"><img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "https://www.linkedin.com/in/gabriel-marino-de-oliveira-3b0a80221/" target = "_blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+    <a href = "https://twitter.com/gmarinohimself" target = "_blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
     <!-- <a href = "" target = "_blank"><img src = ""></a> -->
 </div>
 
