@@ -1,10 +1,11 @@
 ### Hello, Hallo, Привет, Olá! I'm Gabriel Marino.
 
+# 2 and 7 are the best primes numbers.
 <!-- <div></div> -->
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Marino&include_all_commits=true&count_private=true&show_icons=true&theme=ocean_dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Marino&layout=compact&hide=shell,gnuplot"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Marino&include_all_commits=true&count_private=true&show_icons=true&theme=ocean_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Marino&langs_count=7&layout=compact&hide=shell,gnuplot"/>
 </div>
 
 
