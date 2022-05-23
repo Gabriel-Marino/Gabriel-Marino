@@ -4,7 +4,7 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Marino&include_all_commits=true&count_private=true&show_icons=true&theme=ocean_dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Marino&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Marino&layout=compact&hide=shell,gnuplot"/>
 </div>
 
 
