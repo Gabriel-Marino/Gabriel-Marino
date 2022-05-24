@@ -6,7 +6,7 @@
     <img align="right" alt="birb" src="https://github.com/Gabriel-Marino/some-math-algorithm/blob/master/safe_image.gif">
     <br>
     <ul>
-        <li>Undergraduate bachelor of Physics at Universidade Estadual de Maringá.</li>
+        <li>Undergraduate bachelor of Physics at Universidade Estadual de Maringá (Brazil).</li>
         <li>Pursuing become a Back End developer.</li>
         <li>21 years old.</li>
         <li>Passionate in Physics, Mathematics and Technology.</li>
@@ -24,7 +24,7 @@
 
 <br>
 
-###### Stacks i know something about
+###### Technologies which i know something about
 <div style="display: inline_block">
     <!-- <img align="center" alt="LaTeX icon" height="30" width="40" src="https://coollogo.net/wp-content/uploads/2021/02/Latex-logo.svg"> -->
     <img align="center" alt="Clang icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -36,7 +36,7 @@
 
 <br>
 
-###### Stacks i plan to study in the near feture
+###### Technologies i plan to study in the near future
 <div>
     <img align="center" alt="Cpplang icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Java icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
