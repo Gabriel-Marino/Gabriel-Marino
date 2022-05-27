@@ -27,6 +27,7 @@
 ###### Technologies which i know something about
 <div style="display: inline_block">
     <!-- <img align="center" alt="LaTeX icon" height="30" width="40" src="https://coollogo.net/wp-content/uploads/2021/02/Latex-logo.svg"> -->
+    <img align="center" alt="GIT icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Clang icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="NodeJS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="JS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
