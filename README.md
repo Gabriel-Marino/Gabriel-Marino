@@ -3,7 +3,7 @@
 ##### 2 and 7 are the best primes numbers.
 <!-- <div></div> -->
 <div>
-    <img align="right" alt="birb" src="https://github.com/Gabriel-Marino/some-math-algorithm/blob/master/safe_image.gif">
+<!--     <img align="right" alt="birb" src="https://github.com/Gabriel-Marino/some-math-algorithm/blob/master/safe_image.gif"> -->
     <br>
     <ul>
         <li>Undergraduate bachelor of Physics at Universidade Estadual de Maringá (Brazil).</li>
