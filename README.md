@@ -58,7 +58,7 @@
 <hr>
 
 <div>
-    <a href = "https://www.linkedin.com/in/gabriel-marino-de-oliveira-3b0a80221/" target = "_blank"><img alt="LinkedIn Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+    <a href = "https://www.linkedin.com/in/gmarinohimself" target = "_blank"><img alt="LinkedIn Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
     <a href = "https://twitter.com/gmarinohimself" target = "_blank"><img alt="Twitter Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
     <!-- <a href = "" target = "_blank"><img src = ""></a> -->
 </div>
