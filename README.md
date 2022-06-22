@@ -1,6 +1,6 @@
 # Hello, i'm Gabriel Marino.
 
-##### 2 and 7 are the best primes numbers.
+###### 2 and 7 are the best primes numbers.
 <!-- <div></div> -->
 <div>
 <!--     <img align="right" alt="birb" src="https://github.com/Gabriel-Marino/some-math-algorithm/blob/master/safe_image.gif"> -->
@@ -26,44 +26,52 @@
 
 <br>
 
-###### Technologies which i know something about
+#### Technologies which i know something about
 <div style="display: inline_block">
     <!-- <img align="center" alt="LaTeX icon" height="30" width="40" src="https://coollogo.net/wp-content/uploads/2021/02/Latex-logo.svg"> -->
-    <img align="center" alt="GIT icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Clang icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="NodeJS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="JS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="GIT icon"        height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Clang icon"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Java icon"       height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="JavaScript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="TypeScript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Python icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="HTML5 icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-    <img align="center" alt="CSS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    <img align="center" alt="NodeJS icon"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Python icon"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="HTML5 icon"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    <img align="center" alt="CSS icon"        height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div>
 
 <br>
 
-###### Technologies i plan to study in the near future
+#### Technologies i plan to study in the near future
 <div>
-    <img align="center" alt="Java icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="spring boot icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-    <img align="center" alt="MongoDB icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="MySQL icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Cpplang icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Ruby icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
-    <img align="center" alt="Lua icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
-    <img align="center" alt="Rust icon" height="30" width="40" src="https://raw.githubusercontent.com/Gabriel-Marino/Gabriel-Marino/7c40b1ba5f71c3938862a99f923e9e6e8fae59fe/rust-white.svg">
-    <img align="center" alt="Haskell icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
-    <img align="center" alt="React icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-    <img align="center" alt="deno icon" height="30" width="40" src="https://raw.githubusercontent.com/Gabriel-Marino/Gabriel-Marino/ad048bb6e6be1eee7ebf3dee1b2c404cc848baef/deno-white.svg">
-    <img align="center" alt="npm icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-    <img align="center" alt="yarn icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
+    <img align="center" alt="Spring icon"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="Angular icon"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="MongoDB icon"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="MySQL icon"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="PostgreSQL icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="Cpplang icon"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Ruby icon"       height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
+    <img align="center" alt="Lua icon"        height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
+    <img align="center" alt="Rust icon"       height="30" width="40" src="https://raw.githubusercontent.com/Gabriel-Marino/Gabriel-Marino/7c40b1ba5f71c3938862a99f923e9e6e8fae59fe/rust-white.svg">
+    <img align="center" alt="Haskell icon"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
+    <img align="center" alt="React icon"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+    <img align="center" alt="Docker icon"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+    <img align="center" alt="Deno icon"       height="30" width="40" src="https://raw.githubusercontent.com/Gabriel-Marino/Gabriel-Marino/ad048bb6e6be1eee7ebf3dee1b2c404cc848baef/deno-white.svg">
+    <!-- <img align="center" alt="Yarn icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"> -->
+    <!-- <img align="center" alt="Npm icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -->
     <!-- <img align="center" alt=" icon" height="30" width="40" src=""> -->
 </div>
 
 <hr>
 
+#### My Socials
 <div>
-    <a href = "https://www.linkedin.com/in/gmarinohimself" target = "_blank"><img alt="LinkedIn Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-    <a href = "https://twitter.com/gmarinohimself" target = "_blank"><img alt="Twitter Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
+    <a href = "https://www.linkedin.com/in/gmarinohimself" target = "_blank">
+        <img alt="LinkedIn Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
+    </a>
+    <a href = "https://twitter.com/gmarinohimself" target = "_blank">
+        <img alt="Twitter Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
+    </a>
     <!-- <a href = "" target = "_blank"><img src = ""></a> -->
 </div>
 
