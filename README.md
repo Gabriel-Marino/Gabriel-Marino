@@ -35,6 +35,7 @@
     <img align="center" alt="JavaScript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="TypeScript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="NodeJS icon"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Ruby icon"       height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
     <img align="center" alt="Python icon"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="HTML5 icon"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
     <img align="center" alt="CSS icon"        height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
@@ -50,7 +51,6 @@
     <img align="center" alt="MySQL icon"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="PostgreSQL icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" alt="Cpplang icon"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Ruby icon"       height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
     <img align="center" alt="Lua icon"        height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
     <img align="center" alt="Rust icon"       height="30" width="40" src="https://raw.githubusercontent.com/Gabriel-Marino/Gabriel-Marino/7c40b1ba5f71c3938862a99f923e9e6e8fae59fe/rust-white.svg">
     <img align="center" alt="Haskell icon"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
