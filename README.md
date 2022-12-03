@@ -45,27 +45,6 @@
 
 <br>
 
-## Technologies I plan to study soon
-<div>
-    <img   align="center"  alt="Clang icon"        height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img   align="center"  alt="Haskell icon"      height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
-    <img   align="center"  alt="MySQL icon"        height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <!-- <img   align="center"  alt="Angular icon"      height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> -->
-    <!-- <img   align="center"  alt="Deno icon"         height="30" width="40"  src="./deno-white.svg"> -->
-    <!-- <img   align="center"  alt="Docker icon"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"> -->
-    <!-- <img   align="center"  alt="Java icon"         height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
-    <!-- <img   align="center"  alt="Lua icon"          height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"> -->
-    <!-- <img   align="center"  alt="MongoDB icon"      height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> -->
-    <!-- <img   align="center"  alt="Npm icon"          height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -->
-    <!-- <img   align="center"  alt="PostgreSQL icon"   height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> -->
-    <!-- <img   align="center"  alt="React icon"        height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> -->
-    <!-- <img   align="center"  alt="Rust icon"         height="30" width="40"  src="./rust-white.svg"> -->
-    <!-- <img   align="center"  alt="Spring icon"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> -->
-    <!-- <img   align="center"  alt="TypeScript icon"   height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> -->
-    <!-- <img   align="center"  alt="Yarn icon"         height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"> -->
-    <!-- <img align="center" alt=" icon" height="30" width="40" src=""> -->
-</div>
-
 <hr>
 
 ### My Socials
