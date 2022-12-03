@@ -12,7 +12,7 @@
 <!--     <img align="right" alt="birb" src="https://github.com/Gabriel-Marino/some-math-algorithm/blob/master/safe_image.gif"> -->
     <br>
     <ul>
-        <li>21 years old. From Brazil.</li>
+        <li>22 years old. From Brazil.</li>
         <li>Passionate in Physics, Mathematics and Technology.</li>
         <li>Undergraduate bachelor of Physics at Universidade Estadual de Maringá.</li>
         <!-- <li></li> -->
