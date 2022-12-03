@@ -1,8 +1,8 @@
-<style>
+<!-- style>
     .white-filter {
         filter: invert(100%) sepia(8%) saturate(31%) hue-rotate(282deg) brightness(106%) contrast(107%);
     }
-</style>
+</style -->
 
 # Hello, I'm Gabriel Marino.
 
