@@ -14,7 +14,7 @@
     <ul>
         <li>22 years old. From Brazil.</li>
         <li>Passionate in Physics, Mathematics and Technology.</li>
-        <li>Undergraduate bachelor of Physics at Universidade Estadual de Maringá.</li>
+        <li>Physics Bsc at Universidade Estadual de Maringá.</li>
         <!-- <li></li> -->
     </ul>
 </div>
