@@ -36,9 +36,9 @@
     <img    align="center"  alt="LaTex icon"        height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" class="white-filter">
     <img    align="center"  alt="GIT icon"          height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img    align="center"  alt="JavaScript icon"   height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img    align="center"  alt="NodeJS icon"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <!-- img    align="center"  alt="NodeJS icon"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"-->
     <img    align="center"  alt="Python icon"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img    align="center"  alt="Ruby icon"         height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
+    <!-- img    align="center"  alt="Ruby icon"         height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"-->
     <img    align="center"  alt="HTML5 icon"        height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
     <img    align="center"  alt="CSS icon"          height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div>
@@ -49,11 +49,8 @@
 
 ### My Socials
 <div>
-    <a href = "https://www.linkedin.com/in/gmarinohimself" target = "_blank">
+    <a href = "" target = "_blank">
         <img alt="LinkedIn Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
-    </a>
-    <a href = "https://twitter.com/gmarinohimself" target = "_blank">
-        <img alt="Twitter Logo" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
     </a>
     <!-- <a href = "" target = "_blank"><img src = ""></a> -->
 </div>
